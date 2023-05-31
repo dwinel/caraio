@@ -1,5 +1,1 @@
-$ dig www.fodase.com.br +nostats +nocomments +nocmd
-    > ;www.fodase.com.br                     IN      A
-    > www.fodase.com.br.              3592    IN      CNAME   YOUR-USERNAME.github.io.
-    > dwinel.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER.
-    > GITHUB-PAGES-SERVER.         22      IN      A       192.0.2.1
+fodase.com.br
